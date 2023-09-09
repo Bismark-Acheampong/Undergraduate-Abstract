@@ -1,6 +1,3 @@
-# Undergraduate-Abstract
-
-
     <span
       ><strong
         ><center>
@@ -42,5 +39,3 @@
     revealed information on how best to preserve the normal flora. Our findings
     present data which would help medicine and microbiology to develop better
     therapies to restore the CL skin to normalcy.</span>
-
-    
