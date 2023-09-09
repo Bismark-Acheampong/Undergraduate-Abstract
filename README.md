@@ -1,21 +1,11 @@
-    <span
-      ><strong
-        ><center>
+   <span><strong><center>
           Comparison of the Bacterial Diversity of the Normal Skin Flora of
           Healthy Individuals to the Skin of Humans Infected with Cutaneous
           Leishmaniasis.
-        </center></strong
-      ></span
-    ><br /><br />
-    <span
-      >Bismark Acheampong<sup>1</sup>, Harriet Gamadeku<sup>2</sup>, Asiedu
-      A<sup>2</sup>. Asor, Badu K<sup>2,3</sup>.</span
-    ><br />
-    <span
-      >Department of Theoretical and Applied Biology, KNUST, Kumasi, Ghana<sup
-        >1,2,3</sup
-      ></span
-    ><br /><br />
+        </center></strong></span><br><br>
+    <span>Bismark Acheampong<sup>1</sup>, Harriet Gamadeku<sup>2</sup>, Asiedu
+      A<sup>2</sup>. Asor, Badu K<sup>2,3</sup>.</span><br>
+    <span>Department of Theoretical and Applied Biology, KNUST, Kumasi, Ghana<sup>1,2,3</sup></span><br><br>
     <span>Cutaneous Leishmaniasis (CL) is a neglected tropical disease caused by the
     Leishmania parasite transmitted by the bite of the female infected
     phlebotomine sandfly. It affects the skin and is characterized by painless
