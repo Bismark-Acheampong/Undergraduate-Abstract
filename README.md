@@ -3,7 +3,7 @@
    <span><strong><center>
           Comparison of the Bacterial Diversity of the Normal Skin Flora of
           Healthy Individuals to the Skin of Humans Infected with Cutaneous
-          Leishmaniasis.
+          <em>Leishmaniasis</em>.
         </center></strong></span><br><br>
     <span>Bismark Acheampong<sup>1</sup>, Harriet Gamadeku<sup>2</sup>, Asiedu
       A. Asor<sup>2</sup>, Badu K<sup>2,3</sup>.</span><br>
